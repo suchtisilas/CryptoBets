@@ -146,3 +146,46 @@ p {
     background-color: #0476aa;
     color: white;
   }
+
+details {
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+    
+}
+
+button {
+    background-color: #5a5a5a;
+    font-size: 30px;
+    cursor: pointer;
+    color: aliceblue;
+}
+.s1 {
+    border: 8px double #5a5a5a;
+    border-radius: 18px
+}
+.s2 {
+    border: 8px double #5a5a5a;
+    border-radius: 18px
+}
+.s3 {
+    border: 8px double #5a5a5a;
+    border-radius: 18px
+}
+
+.partner {
+    text-align: center;
+    border: 8px double #5a5a5a;
+    border-radius: 18px
+}
+
+.team {
+    text-align: center;
+    border: 8px double #5a5a5a;
+    border-radius: 18px
+}
+
+.claim {text-align: center;
+    text-align: center;
+    border: 8px double #5a5a5a;
+    border-radius: 18px}
